@@ -27,8 +27,8 @@
         app:layout_constraintVertical_bias="0.0" />
 
         <LinearLayout
-            android:layout_width="317dp"
-            android:layout_height="79dp"
+            android:layout_width="193dp"
+            android:layout_height="wrap_content"
             android:gravity="center"
             android:orientation="horizontal">
 
@@ -39,7 +39,6 @@
                 android:text="Value 1"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                android:layout_marginHorizontal="5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintVertical_bias="0.293" />
@@ -51,7 +50,6 @@
                 android:text="Value 2"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                android:layout_marginHorizontal="5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintVertical_bias="0.293" />
